@@ -8,3 +8,6 @@
 
 # Errors?
 * Join the discord link above and mention arley#1630
+
+# Preview
+![image](https://cdn.discordapp.com/attachments/1061189019532284018/1071227348449509446/image.png)
