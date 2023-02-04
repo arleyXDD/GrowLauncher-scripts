@@ -4,7 +4,7 @@
 * Last updated [01/29/2023]
 
 # Discord Server
-* [Discord](https://discord.gg/growpai)
+* [Discord](https://discord.gg/x3bWpXmdxS)
 
 # Errors?
 * Join the discord link above and mention arley#1630
